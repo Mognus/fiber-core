@@ -1,4 +1,4 @@
-module github.com/yourcompany/backend-core
+module template/modules/core
 
 go 1.23
 
